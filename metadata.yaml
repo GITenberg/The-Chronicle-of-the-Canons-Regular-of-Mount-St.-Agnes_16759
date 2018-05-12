@@ -1,0 +1,42 @@
+_repo: The-Chronicle-of-the-Canons-Regular-of-Mount-St.-Agnes_16759
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Arthur, J. P.
+    birthdate: 1865
+    deathdate: 1920
+    gutenberg_agent_id: '6914'
+    url: http://www.gutenberg.org/2009/agents/6914
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thomas, à Kempis
+    aliases:
+    - Kempis, Thomas à
+    - Kempis, Thomas a
+    birthdate: 1380
+    deathdate: 1471
+    gutenberg_agent_id: '682'
+    url: http://www.gutenberg.org/2009/agents/682
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_à_Kempis
+description: This is an electronic edition of the complete book complemented by author
+  biography. This book features a table of contents linked to every chapter. The book
+  was designed for optimal navigation on the Kindle, PDA, Smartphone, and other electronic
+  readers. It is formatted to display on all electronic devices including the Kindle,
+  Smartphones and other Mobile Devices with a small display.
+gutenberg_issued: '2005-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16759'
+  lccn: '19000636'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Augustinian Canons'
+- !lcc 'BX'
+title: The Chronicle of the Canons Regular of Mount St. Agnes
+url: http://www.gutenberg.org/ebooks/16759
